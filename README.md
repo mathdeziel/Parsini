@@ -1,6 +1,8 @@
-﻿<center><img src="Assets/parsini_white.png"></center>
 
-# Parsini
+<p align="center">
+  <img src="Assets/parsini_white.png">
+</p>
+
 
 A simple INI file parser in C#.
 
