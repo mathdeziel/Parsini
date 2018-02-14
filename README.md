@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Assets/parsini_white.png">
 </p>
-
+<br/>
 
 A simple INI file parser in C#.
 
@@ -17,8 +17,14 @@ Parsini is developed in `.NET Standard 2.0`, it is therefore supported on the fo
 - Xamarin.Android 7.5
 
 ### Installation
-
-A NuGet package is coming soon!  In the meantime, you will have to build from source.  
+You can install the [NuGet package](https://www.nuget.org/packages/Parsini) via the Package Manager
+```
+PM> Install-Package Parsini -Version 1.0.0
+```
+or the .NET CLI
+```
+> dotnet add package Parsini --version 1.0.0
+```
 
 ### INI Standard
 
