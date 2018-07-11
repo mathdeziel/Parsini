@@ -4,9 +4,6 @@
 </p>
 <br/>
 
-![NugetDownloadCount](https://img.shields.io/nuget/dt/Parsini.svg?label=NuGet%20Downloads&colorB=007ec6)
-![NugetVersion](https://img.shields.io/nuget/v/Parsini.svg?label=NuGet%20Version&colorB=007ec6)
-
 A simple INI file parser in C#.
 
 ## Getting Started
